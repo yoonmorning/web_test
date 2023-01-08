@@ -1,0 +1,17 @@
+
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-content: 25vh;
+    margin-top:20vh;
+
+}
+
+
+.intext{
+    float: center;
+    margin-top:35px;
+    padding-left: 50px;
+}
+

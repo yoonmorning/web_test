@@ -1,0 +1,16 @@
+body{
+    background-color: #f9ddc5;
+}
+
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 20vh;
+
+}
+h1{
+    text-align: center;
+}
+

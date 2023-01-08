@@ -1,0 +1,21 @@
+body{
+   background-color: #a6c6b2;
+}
+
+.third{
+   text-align: center;
+   align-items: center;
+}
+.adrs{
+   margin-top:20vh; 
+   text-decoration: none;
+   margin: 35px;
+}
+
+.list{
+   display: flex;
+   justify-content: center;
+   align-content: 25vh;
+   margin-top:20vh;
+
+}
